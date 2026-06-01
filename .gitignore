@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+data/
+data/vectorstores/
+data/cache/
+
+evaluation/
+.DS_Store
+.ipynb_checkpoints/
+
+*.log
+*.sqlite3
